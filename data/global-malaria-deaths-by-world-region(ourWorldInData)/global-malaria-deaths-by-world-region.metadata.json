@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Malaria deaths by world region",
+    "subtitle": "Estimated annual number of deaths from [malaria](#dod:malaria).",
+    "citation": "WHO, Global Malaria Programme (2021)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/global-malaria-deaths-by-world-region?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Europe",
+      "Americas",
+      "Western Pacific",
+      "Eastern Mediterranean",
+      "South-East Asia",
+      "Africa"
+    ]
+  },
+  "columns": {
+    "malaria_deaths": {
+      "titleShort": "Deaths from malaria",
+      "titleLong": "Deaths from malaria",
+      "unit": "",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 347639,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Deaths from malaria” [dataset]. Global Malaria Programme, World Health Organization [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/347639.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-21",
+  "activeFilters": {}
+}

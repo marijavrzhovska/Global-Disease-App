@@ -1,0 +1,52 @@
+{
+  "chart": {
+    "title": "Lung cancer death rates",
+    "subtitle": "Reported annual death rate from lung, bronchus or trachea [cancers](#dod:cancer) per 100,000 people, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+    "note": "To allow for comparisons between countries and over time, this metric is [age-standardized](#dod:age_standardized). All deaths in a country may not have been registered with a [cause of death](#dod:underlying-cause-of-death).",
+    "citation": "WHO Mortality Database (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/lung-cancer-deaths-per-100000-by-sex-1950-2002?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States"
+    ]
+  },
+  "columns": {
+    "Age-standardized deaths from trachea, bronchus, lung cancers in females in those aged all ages per 100,000 people": {
+      "titleShort": "Women",
+      "titleLong": "Women",
+      "descriptionShort": "Reported deaths from trachea, bronchus, lung cancers in females in those aged all ages per 100,000 people.",
+      "descriptionKey": [
+        "The International Classification of Diseases (Version 10) codes that define trachea, bronchus, lung cancers are C33-C34."
+      ],
+      "unit": "deaths per 100,000 people",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "owidVariableId": 1094037,
+      "shortName": "age_standardized_death_rate_per_100_000_standard_population__sex_females__age_group_all_ages__cause_trachea__bronchus__lung_cancers__icd10_codes_c33_c34",
+      "lastUpdated": "2025-08-05",
+      "nextUpdate": "2026-08-05",
+      "citationShort": "WHO Mortality Database (2025) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2025) – with minor processing by Our World in Data. “Women” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1094037.metadata.json"
+    },
+    "Age-standardized deaths from trachea, bronchus, lung cancers in males in those aged all ages per 100,000 people": {
+      "titleShort": "Men",
+      "titleLong": "Men",
+      "descriptionShort": "Reported deaths from trachea, bronchus, lung cancers in males in those aged all ages per 100,000 people.",
+      "descriptionKey": [
+        "The International Classification of Diseases (Version 10) codes that define trachea, bronchus, lung cancers are C33-C34."
+      ],
+      "unit": "deaths per 100,000 people",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "owidVariableId": 1094053,
+      "shortName": "age_standardized_death_rate_per_100_000_standard_population__sex_males__age_group_all_ages__cause_trachea__bronchus__lung_cancers__icd10_codes_c33_c34",
+      "lastUpdated": "2025-08-05",
+      "nextUpdate": "2026-08-05",
+      "citationShort": "WHO Mortality Database (2025) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2025) – with minor processing by Our World in Data. “Men” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1094053.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-21",
+  "activeFilters": {}
+}
